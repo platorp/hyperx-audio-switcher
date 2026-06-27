@@ -23,7 +23,7 @@ This tool bypasses that by querying the dongle directly over HID (Human Interfac
 - Windows 10 or 11
 - Python 3 — [python.org](https://www.python.org/downloads/)
 - PowerShell 5.1 or later (built into Windows)
-- HyperX Cloud III S Wireless headset + USB-C dongle
+- HyperX Cloud III S Wireless headset
 
 ---
 
