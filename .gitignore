@@ -1,0 +1,11 @@
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Windows
+Thumbs.db
+Desktop.ini
